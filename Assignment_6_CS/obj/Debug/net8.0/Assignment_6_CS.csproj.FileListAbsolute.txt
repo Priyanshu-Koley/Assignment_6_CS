@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Internship\CS\Assignment_6_CS\Assignment_6_CS\bin\Debug\net8.0\Assignment_6_CS.exe
+C:\Users\HP\Desktop\Internship\CS\Assignment_6_CS\Assignment_6_CS\bin\Debug\net8.0\Assignment_6_CS.deps.json
+C:\Users\HP\Desktop\Internship\CS\Assignment_6_CS\Assignment_6_CS\bin\Debug\net8.0\Assignment_6_CS.runtimeconfig.json
+C:\Users\HP\Desktop\Internship\CS\Assignment_6_CS\Assignment_6_CS\bin\Debug\net8.0\Assignment_6_CS.dll
+C:\Users\HP\Desktop\Internship\CS\Assignment_6_CS\Assignment_6_CS\bin\Debug\net8.0\Assignment_6_CS.pdb
+C:\Users\HP\Desktop\Internship\CS\Assignment_6_CS\Assignment_6_CS\obj\Debug\net8.0\Assignment_6_CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Internship\CS\Assignment_6_CS\Assignment_6_CS\obj\Debug\net8.0\Assignment_6_CS.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Internship\CS\Assignment_6_CS\Assignment_6_CS\obj\Debug\net8.0\Assignment_6_CS.AssemblyInfo.cs
+C:\Users\HP\Desktop\Internship\CS\Assignment_6_CS\Assignment_6_CS\obj\Debug\net8.0\Assignment_6_CS.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Internship\CS\Assignment_6_CS\Assignment_6_CS\obj\Debug\net8.0\Assignment_6_CS.dll
+C:\Users\HP\Desktop\Internship\CS\Assignment_6_CS\Assignment_6_CS\obj\Debug\net8.0\refint\Assignment_6_CS.dll
+C:\Users\HP\Desktop\Internship\CS\Assignment_6_CS\Assignment_6_CS\obj\Debug\net8.0\Assignment_6_CS.pdb
+C:\Users\HP\Desktop\Internship\CS\Assignment_6_CS\Assignment_6_CS\obj\Debug\net8.0\Assignment_6_CS.genruntimeconfig.cache
+C:\Users\HP\Desktop\Internship\CS\Assignment_6_CS\Assignment_6_CS\obj\Debug\net8.0\ref\Assignment_6_CS.dll
